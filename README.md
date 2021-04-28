@@ -15,9 +15,7 @@ Try to fix the merge conflicts as they arise - if you can...
 - Nathan Schneider
 - Gwendolen Old
 - Matthew Holmes
-- -Ethem Bozkurt
-
-- BTC bc1qtvhw6rdl4gdpvx89nw0e5d0mzugp272dr7m6xg
+- Ethem Bozkurt
 
 
 
