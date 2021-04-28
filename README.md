@@ -16,6 +16,7 @@ Try to fix the merge conflicts as they arise - if you can...
 - Gwendolen Old
 - Matthew Holmes
 - Ethem Bozkurt
+- Timur Jalilov
 
 
 
