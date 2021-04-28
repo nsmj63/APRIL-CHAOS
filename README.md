@@ -23,3 +23,4 @@ Try to fix the merge conflicts as they arise - if you can...
 - Andrew McCall
 - James Barnett
 - Richard Redman
+- Shameer Dar
