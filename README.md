@@ -8,3 +8,4 @@ Try to fix the merge conflicts as they arise - if you can...
 
 - Nick Johnson
 - Oliver Dillon
+- Haaris Moghal
