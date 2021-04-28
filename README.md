@@ -7,3 +7,4 @@ Please clone this repo down directly (no forking required!), and add your name t
 Try to fix the merge conflicts as they arise - if you can...
 
 - Nick Johnson
+- Oliver Dillon
