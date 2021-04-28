@@ -22,3 +22,4 @@ Try to fix the merge conflicts as they arise - if you can...
 - Jonathan Owolabi
 - Andrew McCall
 - James Barnett
+- Richard Redman
