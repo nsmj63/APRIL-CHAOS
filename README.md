@@ -21,3 +21,4 @@ Try to fix the merge conflicts as they arise - if you can...
 - Scott Stevens
 - Jonathan Owolabi
 - Andrew McCall
+- James Barnett
