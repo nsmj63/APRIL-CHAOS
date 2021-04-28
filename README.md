@@ -1,4 +1,4 @@
-# APRIL-CHAOS
+-# APRIL-CHAOS
 
 Same task as before, but now everybody has write access!
 
@@ -11,6 +11,6 @@ Try to fix the merge conflicts as they arise - if you can...
 - Oliver Dillon
 - Haaris Moghal
 - Andrei Ionita
-- Andrew MC Call
+- Nathan Schneider
 - Gwendolen Old
 - Asshwin Mugundharajah
